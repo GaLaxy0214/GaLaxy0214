@@ -1,11 +1,10 @@
 - 👋 Hi, I’m @GaLaxy0214
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in running, 24, INTJ,Graduate student. 
+- 🌱 I’m currently learning python
+- 💞️ NUAA  Nice to meet you.
+- 📫 email:1014618183@qq.com（同q）.
 
 <!---
 GaLaxy0214/GaLaxy0214 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
-Hello 大家好，我叫刘旭，就读于南京航空航天大学研二，研究方向是交通运输规划与管理
+--->The research direction is transportation planning and management, and emergency rescue in the field of navigation
